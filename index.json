@@ -36,7 +36,7 @@
       "network": "Twitter",
       "username": "PabloHasel",
       "url": "https://x.com/PabloHasel"
-    },
+    }
   ],
   "featured": [
     {
@@ -51,25 +51,25 @@
   ],
   "buttons": [
     {
-      "network": "LinkedIn",
-      "url": "https://www.linkedin.com/in/marcosklender/?locale=en_US",
-      "title": "Let's connect on LinkedIn",
+      "network": "web",
+      "url": "https://pablohaseldesdeprision.wordpress.com/",
+      "title": "Pablo Hasél desde prisión",
       "textColor": "#FFF",
       "backgroundColor": "#000",
       "borderRadius": ".75rem"
     },
     {
       "network": "Instagram",
-      "url": "https://www.instagram.com/marcosklender",
-      "title": "Follow me on Instagram",
+      "url": "https://www.instagram.com/pablohaseloficial/",
+      "title": "Encarcelado por denunciar injusticias y a sus culpables.",
       "textColor": "#FFF",
       "backgroundColor": "#000",
       "borderRadius": ".75rem"
     },
     {
-      "network": "Mail",
-      "url": "mailto:marcosklender@gmail.com",
-      "title": "Contact me anytime",
+      "network": "Twitter",
+      "url": "https://x.com/PabloHasel",
+      "title": "Preso político por denunciar las miserias del régimen en sus tuits y canciones.",
       "textColor": "#FFF",
       "backgroundColor": "#000",
       "borderRadius": ".75rem"

@@ -11,14 +11,14 @@
   },
   "header": {
     "image": "/ph.jpg",
-    "alt": "The owner of this website.",
+    "alt": "Pablo Hasél",
     "title": "Pablo Hasél",
-    "description": "Full Stack Developer",
+    "description": "Enlaces",
     "textColor": "white"
   },
   "socials": [
     {
-      "network": "web",
+      "network": "Link",
       "username": "web",
       "url": "https://pablohaseldesdeprision.wordpress.com/"
     },
@@ -33,14 +33,14 @@
       "url": "https://www.instagram.com/pablohaseloficial/"
     },
     {
-      "network": "Twitter",
+      "network": "X",
       "username": "PabloHasel",
       "url": "https://x.com/PabloHasel"
     }
   ],
   "featured": [
     {
-      "network": "Mail",
+      "network": "Link",
       "url": "https://pablohaseldesdeprision.wordpress.com/letters/",
       "title": "Trenca l'aïllament i envia-li una carta demostrant el teu suport: Pablo Rivadulla Duró. Centre Penitenciari Ponent - Mòdul 7. C/ Victoria Kent S/N 25071 Lleida",
       "textColor": "#FFF",
@@ -51,9 +51,9 @@
   ],
   "buttons": [
     {
-      "network": "web",
+      "network": "Link",
       "url": "https://pablohaseldesdeprision.wordpress.com/",
-      "title": "Pablo Hasél desde prisión",
+      "title": "Pablo Hasél desde prisión · Web",
       "textColor": "#FFF",
       "backgroundColor": "#000",
       "borderRadius": ".75rem"
@@ -61,23 +61,23 @@
     {
       "network": "Instagram",
       "url": "https://www.instagram.com/pablohaseloficial/",
-      "title": "Encarcelado por denunciar injusticias y a sus culpables.",
+      "title": "Instagram",
       "textColor": "#FFF",
       "backgroundColor": "#000",
       "borderRadius": ".75rem"
     },
     {
-      "network": "Twitter",
+      "network": "X",
       "url": "https://x.com/PabloHasel",
-      "title": "Preso político por denunciar las miserias del régimen en sus tuits y canciones.",
+      "title": "Twitter",
       "textColor": "#FFF",
       "backgroundColor": "#000",
       "borderRadius": ".75rem"
     },
     {
-      "network": "Biografía",
+      "network": "Link",
       "url": "https://pablohaseldesdeprision.wordpress.com/about/",
-      "title": "Pablo Hasél rapero comunista",
+      "title": "Biografía",
       "textColor": "#FFF",
       "backgroundColor": "#000",
       "borderRadius": ".75rem"

@@ -49,40 +49,7 @@
       "borderRadius": ".75rem"
     }
   ],
-  "buttons": [
-    {
-      "network": "Link",
-      "url": "https://pablohaseldesdeprision.wordpress.com/",
-      "title": "Pablo Hasél desde prisión · Web",
-      "textColor": "#FFF",
-      "backgroundColor": "#000",
-      "borderRadius": ".75rem"
-    },
-    {
-      "network": "Instagram",
-      "url": "https://www.instagram.com/pablohaseloficial/",
-      "title": "Instagram",
-      "textColor": "#FFF",
-      "backgroundColor": "#000",
-      "borderRadius": ".75rem"
-    },
-    {
-      "network": "X",
-      "url": "https://x.com/PabloHasel",
-      "title": "Twitter",
-      "textColor": "#FFF",
-      "backgroundColor": "#000",
-      "borderRadius": ".75rem"
-    },
-    {
-      "network": "Link",
-      "url": "https://pablohaseldesdeprision.wordpress.com/about/",
-      "title": "Biografía",
-      "textColor": "#FFF",
-      "backgroundColor": "#000",
-      "borderRadius": ".75rem"
-    }
-  ],
+
   "footer": {
     "copyright": "Resistir hasta vencer",
     "url": "#"

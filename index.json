@@ -1,9 +1,9 @@
 {
   "html": {
-    "lang": "en",
+    "lang": "es",
     "title": "Marcos Carrasco",
-    "description": "Follow me on all my socials",
-    "favicon": "/favicon.svg"
+    "description": "Enlaces",
+    "favicon": "/ph.jpg"
   },
   "background": {
     "firstColor": "#454281",
@@ -18,36 +18,32 @@
   },
   "socials": [
     {
-      "network": "GitHub",
-      "username": "marcosklender",
-      "url": "https://github.com/marcosklender"
+      "network": "web",
+      "username": "web",
+      "url": "https://pablohaseldesdeprision.wordpress.com/"
     },
     {
-      "network": "LinkedIn",
-      "username": "marcosklender",
-      "url": "https://www.linkedin.com/in/marcosklender/?locale=en_US"
+      "network": "YouTube",
+      "username": "PabloHaselOficial",
+      "url": "https://www.youtube.com/@PabloHaselOficial"
     },
     {
       "network": "Instagram",
-      "username": "marcosklender",
-      "url": "https://www.instagram.com/marcosklender"
+      "username": "pablohaseloficial",
+      "url": "https://www.instagram.com/pablohaseloficial/"
     },
     {
-      "network": "Mail",
-      "username": "marcosklender",
+      "network": "Trenca l'aïllament",
+      "username": "Ponent Mòdul 7",
       "url": "mailto:marcosklender@gmail.com"
     },
-    {
-      "network": "Link",
-      "username": "JSONLinks",
-      "url": "https://jsonlinks.netlify.app/templates"
-    }
+
   ],
   "featured": [
     {
       "network": "GitHub",
       "url": "https://github.com/MarcosKlender/AstroLinkHub",
-      "title": "Use this template and star it (:",
+      "title": "Trenca l'aïllament i envia-li una carta demostrant el teu suport: Pablo Rivadulla Duró. Centre Penitenciari Ponent - Mòdul 7. C/ Victoria Kent S/N 25071 Lleida",
       "textColor": "#FFF",
       "backgroundImage": "https://githubuniverse.com/og-image-24.jpg",
       "backgroundColor": null,
@@ -80,16 +76,16 @@
       "borderRadius": ".75rem"
     },
     {
-      "network": "Link",
-      "url": "https://jsonlinks.netlify.app/templates",
-      "title": "See more templates",
+      "network": "Biografía",
+      "url": "https://pablohaseldesdeprision.wordpress.com/about/",
+      "title": "Pablo Hasél rapero comunista",
       "textColor": "#FFF",
       "backgroundColor": "#000",
       "borderRadius": ".75rem"
     }
   ],
   "footer": {
-    "copyright": "Made with 🍺 by MarcosKlender 🇪🇨",
-    "url": "https://marcosklender.com"
+    "copyright": "Resistir hasta vencer",
+    "url": "#"
   }
 }

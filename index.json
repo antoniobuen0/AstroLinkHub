@@ -45,11 +45,44 @@
       "title": "Trenca l'aïllament i envia-li una carta demostrant el teu suport: Pablo Rivadulla Duró. Centre Penitenciari Ponent - Mòdul 7. C/ Victoria Kent S/N 25071 Lleida",
       "textColor": "#FFF",
       "backgroundImage": "/carta.jpg",
-      "backgroundColor": null,
+      "backgroundColor": "#000",
       "borderRadius": ".75rem"
     }
   ],
-
+  "buttons": [
+    {
+      "network": "Link",
+      "url": "https://pablohaseldesdeprision.wordpress.com/",
+      "title": "Pablo Hasél desde prisión · Web",
+      "textColor": "#FFF",
+      "backgroundColor": "#000",
+      "borderRadius": ".75rem"
+    },
+    {
+      "network": "Instagram",
+      "url": "https://www.instagram.com/pablohaseloficial/",
+      "title": "Instagram",
+      "textColor": "#FFF",
+      "backgroundColor": "#000",
+      "borderRadius": ".75rem"
+    },
+    {
+      "network": "X",
+      "url": "https://x.com/PabloHasel",
+      "title": "Twitter",
+      "textColor": "#FFF",
+      "backgroundColor": "#000",
+      "borderRadius": ".75rem"
+    },
+    {
+      "network": "Link",
+      "url": "https://pablohaseldesdeprision.wordpress.com/about/",
+      "title": "Biografía",
+      "textColor": "#FFF",
+      "backgroundColor": "#000",
+      "borderRadius": ".75rem"
+    }
+  ],
   "footer": {
     "copyright": "Resistir hasta vencer",
     "url": "#"

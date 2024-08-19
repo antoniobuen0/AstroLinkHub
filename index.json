@@ -1,18 +1,18 @@
 {
   "html": {
     "lang": "es",
-    "title": "Marcos Carrasco",
+    "title": "Pablo Hasél",
     "description": "Enlaces",
     "favicon": "/ph.jpg"
   },
   "background": {
-    "firstColor": "#454281",
-    "secondColor": "#B38AC2"
+    "firstColor": "#e21d30",
+    "secondColor": "#62615f"
   },
   "header": {
-    "image": "/profile.webp",
+    "image": "/ph.jpg",
     "alt": "The owner of this website.",
-    "title": "Marcos Carrasco",
+    "title": "Pablo Hasél",
     "description": "Full Stack Developer",
     "textColor": "white"
   },
@@ -33,19 +33,18 @@
       "url": "https://www.instagram.com/pablohaseloficial/"
     },
     {
-      "network": "Trenca l'aïllament",
-      "username": "Ponent Mòdul 7",
-      "url": "mailto:marcosklender@gmail.com"
+      "network": "Twitter",
+      "username": "PabloHasel",
+      "url": "https://x.com/PabloHasel"
     },
 
-  ],
   "featured": [
     {
-      "network": "GitHub",
-      "url": "https://github.com/MarcosKlender/AstroLinkHub",
+      "network": "Mail",
+      "url": "https://pablohaseldesdeprision.wordpress.com/letters/",
       "title": "Trenca l'aïllament i envia-li una carta demostrant el teu suport: Pablo Rivadulla Duró. Centre Penitenciari Ponent - Mòdul 7. C/ Victoria Kent S/N 25071 Lleida",
       "textColor": "#FFF",
-      "backgroundImage": "https://githubuniverse.com/og-image-24.jpg",
+      "backgroundImage": "/carta.jpg",
       "backgroundColor": null,
       "borderRadius": ".75rem"
     }
